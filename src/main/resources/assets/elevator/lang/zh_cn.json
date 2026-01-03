@@ -2,5 +2,6 @@
   "block.elevator.elevator_block": "电梯",
   "elevator:teleport": "电梯传送",
   "text.autoconfig.elevator.title": "电梯",
-  "text.autoconfig.elevator.option.elevatorDistance": "电梯传送距离"
+  "text.autoconfig.elevator.option.elevatorDistance": "电梯传送距离",
+  "subtitles.elevator.teleport": "电梯:传送"
 }
